@@ -1,4 +1,4 @@
-const URL_API = "http://127.0.0.1"
+const URL_API = "https://api-suma-nodejs.herokuapp.com"
 const sumar = ()=>{
     let n1 = parseInt(document.getElementById("n1").value,10);
     let n2 = parseInt(document.getElementById("n2").value,10);
